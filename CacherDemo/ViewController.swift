@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Cacher
+import Cachable
 
 class ViewController: UIViewController {
 	@IBOutlet weak var textField: UITextField!
